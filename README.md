@@ -5,13 +5,13 @@ Current Features
 Planned Features
 Cross Server Verification
 - Only allow who you want to allow in your Discord server by implementing different verification styles:
-- - Email Verification
+  - Email Verification
   - Address domain verification
   - Puzzle Solving Verification
-Reaction Roles across multiple servers
-Creating clubs in hub server automatically links club servers
-Configuration of clubs
-Dynamic Reaction Role creation commands
-Temporary Sub Role Creation and Assignment
-Configuration options for admins to edit command permissions
-Embed panel creation, editing, removal, and reordering
+- Reaction Roles across multiple servers
+- Creating clubs in hub server automatically links club servers
+- Configuration of clubs
+- Dynamic Reaction Role creation commands
+- Temporary Sub Role Creation and Assignment
+- Configuration options for admins to edit command permissions
+- Embed panel creation, editing, removal, and reordering
